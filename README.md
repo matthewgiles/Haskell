@@ -1,4 +1,4 @@
-# Haskell
+# Haskell Problem Solutions
 A selection of my solutions to Haskell problems from Imperial College London.
 
 ## Files
