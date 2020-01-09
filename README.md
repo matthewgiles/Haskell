@@ -1,5 +1,5 @@
 # Haskell
-A selection of solutions to Haskell problems from Imperial College London.
+A selection of my solutions to Haskell problems from Imperial College London.
 
 ## Files
 * [Calculus](https://github.com/matthewgiles/Haskell/blob/master/Calculus.hs) - A Haskell calculator which solves some basic differentials.
